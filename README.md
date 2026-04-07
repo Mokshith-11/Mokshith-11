@@ -66,8 +66,8 @@ Full-stack web development
 Machine learning model development
 deployment and cloud integration
 real-world project building
-✨ Developer Motto
 
+✨ Developer Motto -
 Code. Learn. Build. Repeat.
 
 📌 Strong interest in AI & ML
