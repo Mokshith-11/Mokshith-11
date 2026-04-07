@@ -62,33 +62,38 @@
 
 ---
 
-## 📊 GitHub Analytics
+🚀 Featured Projects
+🔹 NGO Donation Platform
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mokshith-11&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mokshith-11&theme=tokyonight&layout=compact&hide_border=true" height="170"/>
-</p>
+A modern web platform designed to connect donors with NGOs through a seamless donation experience.
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mokshith-11&theme=tokyonight&hide_border=true"/>
-</p>
+🔹 Deepfake Audio Detection
 
----
+Built a machine learning system for multilingual fake audio detection using deep learning techniques.
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mokshith-11&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+🔹 Automated Resume Screening
 
----
+Developed an RPA workflow using UiPath for intelligent resume filtering and candidate shortlisting.
 
-## ✨ Developer Quote
-> *"Code. Learn. Build. Repeat."*
+🔹 Automotive Modernized E-Wheels
 
----
-<div align="center">
+Focused on generating electrical energy from mechanical force in electric vehicles.
 
-### ⭐ Thanks for visiting my profile!
+📈 Current Focus
+Full-stack web development
+Machine learning model development
+deployment and cloud integration
+real-world project building
+✨ Developer Motto
 
+Code. Learn. Build. Repeat.
+
+📌 Profile Highlights
+Strong interest in AI & ML
+Hands-on project development
+Continuous learner
+Problem-solving mindset
+
+⭐ Thanks for visiting my profile
 </div>
 ```
