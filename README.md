@@ -61,24 +61,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
-🚀 Featured Projects
-🔹 NGO Donation Platform
-
-A modern web platform designed to connect donors with NGOs through a seamless donation experience.
-
-🔹 Deepfake Audio Detection
-
-Built a machine learning system for multilingual fake audio detection using deep learning techniques.
-
-🔹 Automated Resume Screening
-
-Developed an RPA workflow using UiPath for intelligent resume filtering and candidate shortlisting.
-
-🔹 Automotive Modernized E-Wheels
-
-Focused on generating electrical energy from mechanical force in electric vehicles.
-
 📈 Current Focus
 Full-stack web development
 Machine learning model development
@@ -96,4 +78,4 @@ Problem-solving mindset
 
 ⭐ Thanks for visiting my profile
 </div>
-```
+
