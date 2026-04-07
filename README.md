@@ -61,7 +61,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-📈 Current Focus
+📈 Current Focus -
 Full-stack web development
 Machine learning model development
 deployment and cloud integration
@@ -70,8 +70,7 @@ real-world project building
 
 Code. Learn. Build. Repeat.
 
-📌 Profile Highlights
-Strong interest in AI & ML
+📌 Strong interest in AI & ML
 Hands-on project development
 Continuous learner
 Problem-solving mindset
